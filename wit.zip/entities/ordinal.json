@@ -1,0 +1,13 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text"
+    ],
+    "name" : "ordinal",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "ordinal",
+    "doc" : "{\"spanless\":false,\"short_desc\":\"measure of an ordinal number\",\"long_desc\":\"First, second, third... or 1st, 2nd, ..., 7th etc.\",\"examples\":[{\"expression\":[\"read me the\",\"1st\",\"email\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"ordinal\\\" : [ {\\n        \\\"value\\\" : 1\\n      } ]\\n    }\",\"$$hashKey\":\"06J\"},{\"expression\":[\"the\",\"third\",\"rank\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"ordinal\\\" : [ {\\n        \\\"value\\\" : 3\\n      } ]\\n    }\",\"$$hashKey\":\"08A\"}],\"similar_wisps\":[{\"name\":\"wit/number\",\"$$hashKey\":\"06L\"}]}",
+    "builtin" : true
+  }
+}

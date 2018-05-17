@@ -1,0 +1,13 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text"
+    ],
+    "name" : "url",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "url",
+    "doc" : "{\"spanless\":false,\"short_desc\":\"\",\"long_desc\":\"Capture an URL but do not try to check the validity of the URL. Like  `http://www.foo.com`,  `www.foo.com:8080/path`,  `https://myserver?foo=bar`,  `cnn.com/info`,  `bla.com/path/path?ext=%23&foo=bla`,  `localhost`...\",\"examples\":[{\"expression\":[\"go to\",\"www.wit.ai\",\"tomorrow\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"url\\\" : [ {\\n        \\\"value\\\" : \\\"www.wit.ai\\\"\\n      } ]\\n    }\",\"$$hashKey\":\"067\"}],\"similar_wisps\":[{\"name\":\"\",\"$$hashKey\":\"069\"}]}",
+    "builtin" : true
+  }
+}

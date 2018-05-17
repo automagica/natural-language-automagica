@@ -1,0 +1,45 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text"
+    ],
+    "name" : "query",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "query",
+    "values" : [
+      {
+        "value" : "apple",
+        "expressions" : [
+          "apple"
+        ]
+      },
+      {
+        "value" : "apples",
+        "expressions" : [
+          "apples"
+        ]
+      },
+      {
+        "value" : "cheap deals",
+        "expressions" : [
+          "cheap deals"
+        ]
+      },
+      {
+        "value" : "nickleback",
+        "expressions" : [
+          "nickleback"
+        ]
+      },
+      {
+        "value" : "oranges",
+        "expressions" : [
+          "oranges"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

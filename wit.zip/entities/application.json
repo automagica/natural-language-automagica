@@ -1,0 +1,34 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "application",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "application",
+    "values" : [
+      {
+        "value" : "chrome",
+        "expressions" : [
+          "chrome"
+        ]
+      },
+      {
+        "value" : "edge",
+        "expressions" : [
+          "edge"
+        ]
+      },
+      {
+        "value" : "the browser",
+        "expressions" : [
+          "the browser"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

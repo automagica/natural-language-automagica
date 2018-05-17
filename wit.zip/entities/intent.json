@@ -1,0 +1,27 @@
+{
+  "data" : {
+    "lookups" : [
+      "trait"
+    ],
+    "name" : "intent",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "intent",
+    "values" : [
+      {
+        "value" : "browser_get"
+      },
+      {
+        "value" : "click"
+      },
+      {
+        "value" : "enter_search"
+      },
+      {
+        "value" : "run_application"
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

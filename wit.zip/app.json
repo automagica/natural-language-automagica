@@ -1,0 +1,9 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip automagica.zip automagica/app.json automagica/entities/*.json automagica/expressions.json",
+  "data" : {
+    "name" : "automagica",
+    "description" : "",
+    "lang" : "en"
+  }
+}
