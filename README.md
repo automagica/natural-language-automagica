@@ -18,7 +18,6 @@ Install the following required packages:
 ```
 pip install https://github.com/OakwoodAI/automagica/tarball/master
 pip install https://github.com/OakwoodAI/understanding/tarball/master
-
 ```
 Then install Natural Language for Automagica:
 ```
