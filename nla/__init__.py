@@ -37,7 +37,7 @@ def main():
                     if query:
                         query = query[0]['value']
                         Type(text=query)
-                        PressHotkey('enter')
+                        PressKey('enter')
                     else:
                         print('I dont understand your query')
                         exit()
